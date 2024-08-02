@@ -1,0 +1,40 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook temporary files
+*.nbconvert.ipynb
+
+# Ignore Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore dotenv files
+.env
+.env.*
+
+# Ignore outputs from IPython and Jupyter
+*.out
+*.log
+*.err
+
+# Ignore configuration files
+.ipython/
+.jupyter/
+.matplotlib/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore csv etc
+*.csv
+*.tsv
