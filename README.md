@@ -34,6 +34,3 @@ Run the final Biterm Topic Model once the optimal specification has been chosen.
 
 ### 04-create_results.ipynb
 This file creates some more user-friendly output files for users to explore the results. In particular, joins back onto the original input data.
-
-### 04a-create_results_topicnames.ipynb
-Once the researcher has labelled the topics (and higher-level 'categories'), this script creates user-friendly output files. Including the original data with the labels applied.
