@@ -17,6 +17,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Scripts
+Lib
+include
+share
 
 # Ignore dotenv files
 .env
@@ -31,6 +35,7 @@ venv.bak/
 .ipython/
 .jupyter/
 .matplotlib/
+pyvenv.cfg
 
 # Ignore macOS files
 .DS_Store
@@ -38,3 +43,7 @@ venv.bak/
 # Ignore csv etc
 *.csv
 *.tsv
+
+# Ignore corpus files
+corpus
+img
